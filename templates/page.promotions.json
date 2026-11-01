@@ -114,12 +114,25 @@
         },
         "promotion_card_ikwrPF": {
           "type": "promotion_card",
-          "disabled": true,
           "settings": {
             "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026.png",
             "promotion_title": "Nouveauté Redken",
             "promotion_description": "<p>Découvrez Acidic Cleansing Mist, le nouveau shampoing sec en brume qui absorbe jusqu’à 4 jours d’excès de sébum en une utilisation, sans laisser de résidus blancs!</p>",
             "promotion_link": "shopify://products/redken-shampoing-sec-acidic-cleansing-mist-100-ml",
+            "promotion_link_text": "Voir plus",
+            "card_with_expiration": false,
+            "expiration_month": "01",
+            "expiration_day": "01"
+          }
+        },
+        "promotion_card_rwFQhP": {
+          "type": "promotion_card",
+          "disabled": true,
+          "settings": {
+            "promotion_image": "shopify://shop_images/3_3fd00d19-e18d-44a8-b679-9af4724838e6.png",
+            "promotion_title": "Coffrets des Fêtes",
+            "promotion_description": "<p>Profitez de jusqu’à 40 % de rabais sur notre sélection de coffrets des Fêtes de vos marques préférées, parfaits pour offrir ou vous faire plaisir!</p>",
+            "promotion_link": "shopify://collections/coffrets",
             "promotion_link_text": "Voir plus",
             "card_with_expiration": false,
             "expiration_month": "01",
@@ -162,6 +175,7 @@
         "promotion_card_U3wzeX",
         "promotion_card_jgy3wm",
         "promotion_card_ikwrPF",
+        "promotion_card_rwFQhP",
         "promotion_card_PeBBMc",
         "promotion_card_W7BpWz"
       ],
