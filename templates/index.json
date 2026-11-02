@@ -91,18 +91,6 @@
     "c_home_multi_banner_EHJpLw": {
       "type": "c-home-multi-banner",
       "blocks": {
-        "item_banner_9PgTWV": {
-          "type": "item_banner",
-          "settings": {
-            "image": "shopify://shop_images/Slider_Mobile_Vente_Annuelle_2026.png",
-            "background_color": "#fbe4db",
-            "title": "<strong>VENTE ANNUELLE</strong>",
-            "description": "<p>Du 22 octobre au 1er novembre, profitez de <strong>20 % de rabais </strong>sur presque tout, même sur les articles en solde, en liquidation et les coffrets des Fêtes! Tous les détails sur la page de la vente!</p>",
-            "text_color": "#13120f",
-            "link_url": "shopify://collections/vente-annuelle",
-            "link_text": "magasiner"
-          }
-        },
         "item_banner_UbMWKb": {
           "type": "item_banner",
           "settings": {
@@ -127,6 +115,18 @@
             "link_text": "magasiner"
           }
         },
+        "item_banner_RMgyNB": {
+          "type": "item_banner",
+          "settings": {
+            "image": "shopify://shop_images/Front_Site_Novembre_750_x_600_px_2.png",
+            "background_color": "#69715b",
+            "title": "<strong>COFFRETS DES FÊTES</strong>",
+            "description": "<p>Profitez de jusqu’à 40 % de rabais sur notre sélection de coffrets des Fêtes de vos marques préférées, parfaits pour offrir ou vous faire plaisir!</p>",
+            "text_color": "#f6f6f6",
+            "link_url": "shopify://collections/coffrets",
+            "link_text": "magasiner"
+          }
+        },
         "item_banner_6fkeqz": {
           "type": "item_banner",
           "disabled": true,
@@ -136,19 +136,6 @@
             "title": "<strong>JUSQU'À 40% DE RABAIS</strong>",
             "description": "<p>Découvrez notre sélection de coffrets des Fêtes de vos marques préférées. Des essentiels beauté à offrir ou à s’offrir, pour faire plaisir à tous les coups!</p>",
             "text_color": "#000000",
-            "link_url": "shopify://collections/coffrets",
-            "link_text": "magasiner"
-          }
-        },
-        "item_banner_RMgyNB": {
-          "type": "item_banner",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Front_Site_Novembre_750_x_600_px_2.png",
-            "background_color": "#69715b",
-            "title": "<strong>COFFRETS DES FÊTES</strong>",
-            "description": "<p>Profitez de jusqu’à 40 % de rabais sur notre sélection de coffrets des Fêtes de vos marques préférées, parfaits pour offrir ou vous faire plaisir!</p>",
-            "text_color": "#f6f6f6",
             "link_url": "shopify://collections/coffrets",
             "link_text": "magasiner"
           }
@@ -168,11 +155,10 @@
         }
       },
       "block_order": [
-        "item_banner_9PgTWV",
         "item_banner_UbMWKb",
         "item_banner_ErkAzK",
-        "item_banner_6fkeqz",
         "item_banner_RMgyNB",
+        "item_banner_6fkeqz",
         "item_banner_mWGprk"
       ],
       "name": "t:c_sections.c_home_multi_banner.name",
@@ -900,7 +886,6 @@
             "title_size": 0,
             "alignment": "center",
             "margin_top": 25,
-            "feed_id": "",
             "html_area": ""
           }
         }
