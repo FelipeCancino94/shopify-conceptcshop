@@ -405,13 +405,13 @@
       },
       "scheme-54e3346b-ef23-4afe-a235-ed1d467921ec": {
         "settings": {
-          "background": "#FBE4DB",
+          "background": "#C6C7B9",
           "background_gradient": "",
-          "text_color": "#5C2733",
-          "primary_button_background": "#FBE4DB",
-          "primary_button_text_color": "#5C2733",
-          "circle_button_background": "#FBE4DB",
-          "circle_button_icon": "#5C2733"
+          "text_color": "#13120F",
+          "primary_button_background": "#C6C7B9",
+          "primary_button_text_color": "#13120F",
+          "circle_button_background": "#C6C7B9",
+          "circle_button_icon": "#13120F"
         }
       }
     }
