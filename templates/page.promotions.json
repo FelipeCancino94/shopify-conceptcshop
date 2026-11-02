@@ -24,7 +24,7 @@
         "promotion_card_WpkijQ": {
           "type": "promotion_card",
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Vente_Annuelle_2026_ee91f778-ad17-4769-8cbd-c62a09dee050.png",
+            "promotion_image": "shopify://shop_images/9_05990286-6441-4be4-b7b7-3488e609b14c.png",
             "promotion_title": "11% de rabais",
             "promotion_description": "<p>Le Single’s Day chez Kérastase! Profitez de 11 % de rabais ou de 15 % à l’achat de 3 produits de format régulier. Le moment parfait pour faire le plein de vos favoris!</p>",
             "promotion_link": "shopify://collections/kerastase",
@@ -37,7 +37,7 @@
         "promotion_card_Hg9HeU": {
           "type": "promotion_card",
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Vente_Annuelle_2026_1_cd31e83b-bec7-441c-9f74-b82619351669.png",
+            "promotion_image": "shopify://shop_images/7_29dad369-7fd7-4635-b931-dd5309f178c2.png",
             "promotion_title": "15% de rabais",
             "promotion_description": "<p>Découvrez une sélection de coiffants emblématiques Living Proof pour faciliter la mise en forme et créer vos looks préférés.</p>",
             "promotion_link": "shopify://collections/promo-du-moment-1",
@@ -50,7 +50,7 @@
         "promotion_card_jYHafK": {
           "type": "promotion_card",
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Vente_Annuelle_2026_10.png",
+            "promotion_image": "shopify://shop_images/8_924003c4-40ed-4423-9a18-da0235f1c6d9.png",
             "promotion_title": "15% de rabais",
             "promotion_description": "<p>Profitez de 15 % de rabais sur vos shampoings et revitalisants Pureology préférés en format d’un litre! L’occasion parfaite de faire le plein de vos essentiels capillaires tout en économisant.</p>",
             "promotion_link": "shopify://collections/promo-du-moment-14",
@@ -63,7 +63,7 @@
         "promotion_card_NB9hyT": {
           "type": "promotion_card",
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Vente_Annuelle_2026_16.png",
+            "promotion_image": "shopify://shop_images/5_53cdc5f0-daf7-4a1b-856d-0d305544ead7.png",
             "promotion_title": "25% de rabais",
             "promotion_description": "<p>La marque canadienne BOB est à 25 % de rabais. Découvrez ses soins et coiffants pour compléter votre routine capillaire.</p>",
             "promotion_link": "shopify://collections/bob",
@@ -73,36 +73,10 @@
             "expiration_day": "01"
           }
         },
-        "promotion_card_FfVjLx": {
-          "type": "promotion_card",
-          "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Vente_Annuelle_2026_4.png",
-            "promotion_title": "50% sur Balmain",
-            "promotion_description": "<p>La gamme de luxe Balmain est à 50 % de rabais. Des soins capillaires raffinés et haut de gamme pour donner une touche plus prestigieuse à votre routine.</p>",
-            "promotion_link": "shopify://collections/balmain",
-            "promotion_link_text": "Voir plus",
-            "card_with_expiration": false,
-            "expiration_month": "01",
-            "expiration_day": "01"
-          }
-        },
-        "promotion_card_U3wzeX": {
-          "type": "promotion_card",
-          "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Site_Octobre_2.png",
-            "promotion_title": "Promo Outils",
-            "promotion_description": "<p>Jusqu’à 40 % de rabais sur plus de 200 outils coiffants des marques GHD, T3, Avanti, Aria, Babyliss, Hot Tools, CHI et Amika!</p>",
-            "promotion_link": "shopify://collections/coffre-a-outils-1",
-            "promotion_link_text": "Voir plus",
-            "card_with_expiration": false,
-            "expiration_month": "01",
-            "expiration_day": "01"
-          }
-        },
         "promotion_card_jgy3wm": {
           "type": "promotion_card",
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Vente_Annuelle_2026_63545899-c703-46a3-a548-8e48717f07ac.png",
+            "promotion_image": "shopify://shop_images/6_6e480382-159d-448a-b465-a05d74e7547f.png",
             "promotion_title": "Jusqu'à 25% de rabais",
             "promotion_description": "<p>Découvrez la nouvelle routine anti-frisottis de L’Oréal Professionnel pour des cheveux plus lisses et brillants, avec jusqu’à 2 semaines de contrôle des frisottis.</p>",
             "promotion_link": "shopify://collections/promo-du-moment-11",
@@ -112,13 +86,13 @@
             "expiration_day": "01"
           }
         },
-        "promotion_card_ikwrPF": {
+        "promotion_card_W7BpWz": {
           "type": "promotion_card",
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026.png",
-            "promotion_title": "Nouveauté Redken",
-            "promotion_description": "<p>Découvrez Acidic Cleansing Mist, le nouveau shampoing sec en brume qui absorbe jusqu’à 4 jours d’excès de sébum en une utilisation, sans laisser de résidus blancs!</p>",
-            "promotion_link": "shopify://products/redken-shampoing-sec-acidic-cleansing-mist-100-ml",
+            "promotion_image": "shopify://shop_images/24_2c6f6462-c68f-4639-a6bc-3853addb6ed4.png",
+            "promotion_title": "Tout à 50% de rabais",
+            "promotion_description": "<p>Une liquidation de produits à 50% de rabais, en tout temps. Faites des économies sur vos essentiels beauté préférés, sans compromis sur la qualité.</p>",
+            "promotion_link": "shopify://collections/la-voute",
             "promotion_link_text": "Voir plus",
             "card_with_expiration": false,
             "expiration_month": "01",
@@ -138,13 +112,26 @@
             "expiration_day": "01"
           }
         },
-        "promotion_card_W7BpWz": {
+        "promotion_card_U3wzeX": {
           "type": "promotion_card",
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Vente_Annuelle_2026_5.png",
-            "promotion_title": "Tout à 50% de rabais",
-            "promotion_description": "<p>Une liquidation de produits à 50% de rabais, en tout temps. Faites des économies sur vos essentiels beauté préférés, sans compromis sur la qualité.</p>",
-            "promotion_link": "shopify://collections/la-voute",
+            "promotion_image": "shopify://shop_images/Onglet_Promotions_Site_Octobre_2.png",
+            "promotion_title": "Promo Outils",
+            "promotion_description": "<p>Jusqu’à 40 % de rabais sur plus de 200 outils coiffants des marques GHD, T3, Avanti, Aria, Babyliss, Hot Tools, CHI et Amika!</p>",
+            "promotion_link": "shopify://collections/coffre-a-outils-1",
+            "promotion_link_text": "Voir plus",
+            "card_with_expiration": false,
+            "expiration_month": "01",
+            "expiration_day": "01"
+          }
+        },
+        "promotion_card_ikwrPF": {
+          "type": "promotion_card",
+          "settings": {
+            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026.png",
+            "promotion_title": "Nouveauté Redken",
+            "promotion_description": "<p>Découvrez Acidic Cleansing Mist, le nouveau shampoing sec en brume qui absorbe jusqu’à 4 jours d’excès de sébum en une utilisation, sans laisser de résidus blancs!</p>",
+            "promotion_link": "shopify://products/redken-shampoing-sec-acidic-cleansing-mist-100-ml",
             "promotion_link_text": "Voir plus",
             "card_with_expiration": false,
             "expiration_month": "01",
@@ -157,12 +144,11 @@
         "promotion_card_Hg9HeU",
         "promotion_card_jYHafK",
         "promotion_card_NB9hyT",
-        "promotion_card_FfVjLx",
-        "promotion_card_U3wzeX",
         "promotion_card_jgy3wm",
-        "promotion_card_ikwrPF",
+        "promotion_card_W7BpWz",
         "promotion_card_rwFQhP",
-        "promotion_card_W7BpWz"
+        "promotion_card_U3wzeX",
+        "promotion_card_ikwrPF"
       ],
       "name": "# Promotions list",
       "settings": {
