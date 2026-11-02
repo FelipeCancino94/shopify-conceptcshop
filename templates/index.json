@@ -103,15 +103,15 @@
             "link_text": "magasiner"
           }
         },
-        "item_banner_ErkAzK": {
+        "item_banner_mWGprk": {
           "type": "item_banner",
           "settings": {
-            "image": "shopify://shop_images/Slider_Mobile_Promo_Outils_Automne_2026_1.png",
-            "background_color": "#e0b7be",
-            "title": "PROMO OUTILS&nbsp;",
-            "description": "<p>Jusqu’à 40 % de rabais sur plus de 200 outils coiffants des marques GHD, T3, Avanti, Aria, Babyliss, Hot Tools, CHI et Amika!</p>",
-            "text_color": "#13120f",
-            "link_url": "shopify://collections/coffre-a-outils-1",
+            "image": "shopify://shop_images/Front_Site_Novembre_750_x_600_px_1.png",
+            "background_color": "#69715b",
+            "title": "<strong>BAS DE NOEL</strong>",
+            "description": "<p>Un petit cadeau en plus pour les Fêtes! Recevez une pochette GRATUITE à l’achat de 45 $ de nos essentiels beauté parfaits pour remplir les bas de Noël!</p>",
+            "text_color": "#f6f6f6",
+            "link_url": "shopify://collections/bas-de-noel-1",
             "link_text": "magasiner"
           }
         },
@@ -127,6 +127,19 @@
             "link_text": "magasiner"
           }
         },
+        "item_banner_ErkAzK": {
+          "type": "item_banner",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Slider_Mobile_Promo_Outils_Automne_2026_1.png",
+            "background_color": "#e0b7be",
+            "title": "PROMO OUTILS&nbsp;",
+            "description": "<p>Jusqu’à 40 % de rabais sur plus de 200 outils coiffants des marques GHD, T3, Avanti, Aria, Babyliss, Hot Tools, CHI et Amika!</p>",
+            "text_color": "#13120f",
+            "link_url": "shopify://collections/coffre-a-outils-1",
+            "link_text": "magasiner"
+          }
+        },
         "item_banner_6fkeqz": {
           "type": "item_banner",
           "disabled": true,
@@ -139,27 +152,14 @@
             "link_url": "shopify://collections/coffrets",
             "link_text": "magasiner"
           }
-        },
-        "item_banner_mWGprk": {
-          "type": "item_banner",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Front_Site_Novembre_750_x_600_px_1.png",
-            "background_color": "#69715b",
-            "title": "<strong>BAS DE NOEL</strong>",
-            "description": "<p>Un petit cadeau en plus pour les Fêtes! Recevez une pochette GRATUITE à l’achat de 40 $ de nos essentiels beauté parfaits pour remplir les bas de Noël!</p>",
-            "text_color": "#f6f6f6",
-            "link_url": "shopify://collections/bas-de-noel-1",
-            "link_text": "magasiner"
-          }
         }
       },
       "block_order": [
         "item_banner_UbMWKb",
-        "item_banner_ErkAzK",
+        "item_banner_mWGprk",
         "item_banner_RMgyNB",
-        "item_banner_6fkeqz",
-        "item_banner_mWGprk"
+        "item_banner_ErkAzK",
+        "item_banner_6fkeqz"
       ],
       "name": "t:c_sections.c_home_multi_banner.name",
       "settings": {
@@ -487,8 +487,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "shampoing",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -498,8 +498,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "shampoing-sec",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -509,8 +509,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "revitalisant-1",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -520,8 +520,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "revitalisant-sans-rincage",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -531,8 +531,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "traitement",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -542,8 +542,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "produits-de-coiffage",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -553,8 +553,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "produits-de-coloration",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -564,8 +564,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "outils-accessoires",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -575,8 +575,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "outils-de-coiffure",
-            "background_item_color": "#C6C7B9",
-            "border_item_color": "#6B725C",
+            "background_item_color": "#c6c7b9",
+            "border_item_color": "#6b725c",
             "text_item_color": "#1c1c1c",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -886,6 +886,7 @@
             "title_size": 0,
             "alignment": "center",
             "margin_top": 25,
+            "feed_id": 0,
             "html_area": ""
           }
         }
