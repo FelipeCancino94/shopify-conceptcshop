@@ -21,6 +21,19 @@
     "custom_promotions_list_zWBgwM": {
       "type": "custom-promotions-list",
       "blocks": {
+        "promotion_card_iaUGJP": {
+          "type": "promotion_card",
+          "settings": {
+            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026_28334b11-b398-425f-8092-f00247c68d17.png",
+            "promotion_title": "15 % de rabais!",
+            "promotion_description": "<p>Jusqu’au 11 novembre, profitez de 15 % de rabais sur nos serviettes de tête en microfibre! Douces, absorbantes et pratiques, elles sont parfaites pour faciliter votre routine capillaire au quotidien.</p>",
+            "promotion_link": "shopify://collections/promo-du-moment-10",
+            "promotion_link_text": "Voir plus",
+            "card_with_expiration": false,
+            "expiration_month": "01",
+            "expiration_day": "01"
+          }
+        },
         "promotion_card_WpkijQ": {
           "type": "promotion_card",
           "settings": {
@@ -153,6 +166,7 @@
         }
       },
       "block_order": [
+        "promotion_card_iaUGJP",
         "promotion_card_WpkijQ",
         "promotion_card_Hg9HeU",
         "promotion_card_jYHafK",
