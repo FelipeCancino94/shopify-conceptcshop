@@ -38,14 +38,14 @@
           "type": "question",
           "settings": {
             "question": "<strong>Termes et Conditions</strong>",
-            "answer": "<p>La promotion est valide du 5 au 9 novembre à 23h59.</p><p>Profitez de 15 % de rabais à l’achat de 150 $ ou de 20 % de rabais à l’achat de 200 $!</p><p>Certaines marques et promotions sont exclues de l’offre. Voici les exclusions :</p><ul><li>Kérastase</li><li>Shu Uemura</li><li>Outils coiffants (déjà en promotion jusqu’à 40 % de rabais)</li><li>SteamPod 4 et AirLight Pro</li></ul><p></p><p><em>Le code promotionnel s’applique automatiquement au panier. Les rabais ne sont pas cumulables entre eux. Certaines conditions s’appliquent.</em></p>"
+            "answer": "<p>La promotion est valide du 5 au 9 novembre à 23h59.</p><p>Profitez de 15 % de rabais à l’achat de 150 $ ou de 20 % de rabais à l’achat de 200 $!</p><p>Certaines marques et promotions sont exclues de l’offre. Voici les exclusions :</p><ul><li>Kérastase (présentement à 11% de rabais)</li><li>Shu Uemura</li><li>Outils coiffants (déjà en promotion jusqu’à 40 % de rabais)</li><li>SteamPod 4 et AirLight Pro</li></ul><p></p><p><em>Le code promotionnel s’applique automatiquement au panier. Les rabais ne sont pas cumulables entre eux. Certaines conditions s’appliquent.</em></p>"
           }
         },
         "question_pGWHdb": {
           "type": "question",
           "settings": {
             "question": "<strong>Cadeau avec achat Concept C</strong>",
-            "answer": "<p>Recevez gratuitement l’Ensemble Serre-Tête Nuage et Poignets - Rouge de Concept C à l’achat de 150 $ et plus!</p><p><em>Aucune exclusion pour le moment. Offre valide jusqu’à épuisement des stocks.</em></p>"
+            "answer": "<p>Recevez gratuitement l’Ensemble Serre-Tête Nuage et Poignets - Rouge de Concept C à l’achat de 150 $ et plus!</p><p><em>Certaines conditions s'appliquent. Offre valide jusqu’à épuisement des stocks.</em></p>"
           }
         }
       },
