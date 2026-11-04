@@ -112,6 +112,20 @@
             "expiration_day": "01"
           }
         },
+        "promotion_card_8FyVcj": {
+          "type": "promotion_card",
+          "disabled": true,
+          "settings": {
+            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026_1_0c59148b-e755-44b5-a8fd-02eab1aff963.png",
+            "promotion_title": "Jusqu'à 20% de rabais!",
+            "promotion_description": "",
+            "promotion_link": "",
+            "promotion_link_text": "Voir plus",
+            "card_with_expiration": false,
+            "expiration_month": "01",
+            "expiration_day": "01"
+          }
+        },
         "promotion_card_k8ftTc": {
           "type": "promotion_card",
           "settings": {
@@ -173,6 +187,7 @@
         "promotion_card_NB9hyT",
         "promotion_card_jgy3wm",
         "promotion_card_W7BpWz",
+        "promotion_card_8FyVcj",
         "promotion_card_k8ftTc",
         "promotion_card_rwFQhP",
         "promotion_card_U3wzeX",
