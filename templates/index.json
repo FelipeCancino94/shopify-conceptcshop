@@ -127,6 +127,19 @@
             "link_text": "magasiner"
           }
         },
+        "item_banner_Xa3CkU": {
+          "type": "item_banner",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Promo_novembre_15_20_gwp_750_X_600.png",
+            "background_color": "#69715B",
+            "title": "<strong>JUSQU'À 20% DE RABAIS</strong>",
+            "description": "<p>15 % de rabais dès 150 $ d’achat ou 20 % dès 200 $! En prime, recevez un cadeau exclusif Concept C dès 150 $ d’achat!&nbsp;</p>",
+            "text_color": "#FFFFFF",
+            "link_url": "shopify://collections/vente-eclair",
+            "link_text": "magasiner"
+          }
+        },
         "item_banner_ErkAzK": {
           "type": "item_banner",
           "disabled": true,
@@ -158,6 +171,7 @@
         "item_banner_mWGprk",
         "item_banner_RMgyNB",
         "item_banner_UbMWKb",
+        "item_banner_Xa3CkU",
         "item_banner_ErkAzK",
         "item_banner_6fkeqz"
       ],
