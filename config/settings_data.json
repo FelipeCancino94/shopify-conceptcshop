@@ -396,11 +396,11 @@
         "settings": {
           "background": "#470201",
           "background_gradient": "",
-          "text_color": "#fbe4db",
+          "text_color": "#F0EEDD",
           "primary_button_background": "#470201",
-          "primary_button_text_color": "#fbe4db",
+          "primary_button_text_color": "#F0EEDD",
           "circle_button_background": "#470201",
-          "circle_button_icon": "#fbe4db"
+          "circle_button_icon": "#F0EEDD"
         }
       },
       "scheme-54e3346b-ef23-4afe-a235-ed1d467921ec": {
