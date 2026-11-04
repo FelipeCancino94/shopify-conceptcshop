@@ -116,10 +116,10 @@
           "type": "promotion_card",
           "disabled": true,
           "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026_1_0c59148b-e755-44b5-a8fd-02eab1aff963.png",
+            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026_2.png",
             "promotion_title": "Jusqu'à 20% de rabais!",
-            "promotion_description": "",
-            "promotion_link": "",
+            "promotion_description": "<p>15 % de rabais dès 150 $ d’achat ou 20 % dès 200 $! En prime, recevez un cadeau exclusif Concept C dès 150 $ d’achat!&nbsp;</p>",
+            "promotion_link": "shopify://collections/vente-eclair",
             "promotion_link_text": "Voir plus",
             "card_with_expiration": false,
             "expiration_month": "01",
