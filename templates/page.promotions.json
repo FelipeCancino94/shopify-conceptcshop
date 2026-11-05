@@ -21,6 +21,19 @@
     "custom_promotions_list_zWBgwM": {
       "type": "custom-promotions-list",
       "blocks": {
+        "promotion_card_ikwrPF": {
+          "type": "promotion_card",
+          "settings": {
+            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026.png",
+            "promotion_title": "Nouveauté Redken",
+            "promotion_description": "<p>Découvrez Acidic Cleansing Mist, le nouveau shampoing sec en brume qui absorbe jusqu’à 4 jours d’excès de sébum en une utilisation, sans laisser de résidus blancs!</p>",
+            "promotion_link": "shopify://products/redken-shampoing-sec-acidic-cleansing-mist-100-ml",
+            "promotion_link_text": "Voir plus",
+            "card_with_expiration": false,
+            "expiration_month": "01",
+            "expiration_day": "01"
+          }
+        },
         "promotion_card_iaUGJP": {
           "type": "promotion_card",
           "settings": {
@@ -114,7 +127,6 @@
         },
         "promotion_card_8FyVcj": {
           "type": "promotion_card",
-          "disabled": true,
           "settings": {
             "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026_2.png",
             "promotion_title": "Jusqu'à 20% de rabais!",
@@ -164,22 +176,10 @@
             "expiration_month": "01",
             "expiration_day": "01"
           }
-        },
-        "promotion_card_ikwrPF": {
-          "type": "promotion_card",
-          "settings": {
-            "promotion_image": "shopify://shop_images/Onglet_Promotions_Novembre_2026.png",
-            "promotion_title": "Nouveauté Redken",
-            "promotion_description": "<p>Découvrez Acidic Cleansing Mist, le nouveau shampoing sec en brume qui absorbe jusqu’à 4 jours d’excès de sébum en une utilisation, sans laisser de résidus blancs!</p>",
-            "promotion_link": "shopify://products/redken-shampoing-sec-acidic-cleansing-mist-100-ml",
-            "promotion_link_text": "Voir plus",
-            "card_with_expiration": false,
-            "expiration_month": "01",
-            "expiration_day": "01"
-          }
         }
       },
       "block_order": [
+        "promotion_card_ikwrPF",
         "promotion_card_iaUGJP",
         "promotion_card_WpkijQ",
         "promotion_card_Hg9HeU",
@@ -190,8 +190,7 @@
         "promotion_card_8FyVcj",
         "promotion_card_k8ftTc",
         "promotion_card_rwFQhP",
-        "promotion_card_U3wzeX",
-        "promotion_card_ikwrPF"
+        "promotion_card_U3wzeX"
       ],
       "name": "# Promotions list",
       "settings": {
